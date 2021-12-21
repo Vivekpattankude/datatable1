@@ -1,5 +1,4 @@
 import './App.css';
-//import { Table } from './components/Table';
 import BasicTable from './components/BasicTable';
 
 function App() {
